@@ -117,3 +117,10 @@ th, td {
       #myBtn:hover {
         background-color: #555;
       }
+
+      .best-goals{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        gap: 15px;
+      }
